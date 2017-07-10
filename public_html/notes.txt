@@ -1,0 +1,75 @@
+######### AUGUST 5, 2016 #########
+
+-- INSTRUCTIONS --
+
+Swap logo and favicon
+Adjust colors to match color palette
+
+Change the Header to:
+Percent Pledge
+Giving back, made simple
+
+Panel 2:
+Instead of “We make charitable giving simple”
+Watch a small percent make a big impact
+
+Panel 3:
+Instead of “The Future of Charitable Giving
+Support the causes you care about
+- leave the rest up to us.
+
+Remove “Learn more” link under tax deductible
+
+Delete “What we believe” section
+
+###################################
+
+-- REAL-TIME CHANGES --
+
+* LOGO SWAPPED
+new colors: 
+	PRIMARY: 	 #5164AB ; rgb(81,100,171) (purple)
+	SECONDARY: #3B99C2 ; rgb(59,153,194) (faded blue)
+	TERTIARY:  #569FF4 ; rgb(86,159,244) (blue)
+	HIGHLIGHT: #4CE9A4 ; rgb(76,233,164) (green)
+* COLORS ADJUSTED
+
+* HEADER CHANGED
+
+* PANEL 2 ALTERRED 
+
+* PANEL 3 ALTERRED
+
+* LEARN MORE LINK REMOVED
+
+* WHAT WE BELIEVE SECTION DELETED
+
+
+
+
+
+
+NOTE: alter charity section's text; maybe it's on the bottom of the picture with solid background and gets taller on hover
+
+###################################
+###################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

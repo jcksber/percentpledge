@@ -1,0 +1,1075 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"impac",
+				"impact-section"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"img",
+				"img-hldr"
+			],
+			[
+				"brandin",
+				"branding_hover"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"text",
+				"text-contain"
+			],
+			[
+				"mon",
+				"month-color"
+			],
+			[
+				"footer",
+				"footer-bkrd"
+			],
+			[
+				"social",
+				"social-icon"
+			],
+			[
+				"paral",
+				"parallax-burger"
+			],
+			[
+				"brand",
+				"brand-footer"
+			],
+			[
+				"memb",
+				"member-border"
+			],
+			[
+				"mem",
+				"member-filler"
+			],
+			[
+				"res",
+				"resize_window"
+			],
+			[
+				"test",
+				"test2end"
+			],
+			[
+				"li",
+				"list_to_set"
+			],
+			[
+				"table",
+				"table_check"
+			],
+			[
+				"bound",
+				"boundToEst"
+			],
+			[
+				"dfn",
+				"dfndr_fx"
+			],
+			[
+				"Minnie",
+				"MinnieWins"
+			],
+			[
+				"Maxie",
+				"MaxieWins"
+			],
+			[
+				"seq",
+				"seq_switches"
+			],
+			[
+				"Min",
+				"Min_balls"
+			],
+			[
+				"Max",
+				"Max_balls"
+			],
+			[
+				"has",
+				"has_fainted"
+			],
+			[
+				"scal",
+				"scale_point"
+			],
+			[
+				"tree",
+				"treeFromList"
+			],
+			[
+				"struct",
+				"structure	SML 'structure' declaration"
+			],
+			[
+				"subset",
+				"subset_sum_exn"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"poly",
+				"polynomialEqual"
+			],
+			[
+				"start",
+				"start_of_next_month"
+			],
+			[
+				"help",
+				"help-window"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"Pthread",
+				"Pthread_rwlock_rdlock"
+			],
+			[
+				"print",
+				"print_cache"
+			],
+			[
+				"Pthread_",
+				"Pthread_rwlock_wrlock"
+			],
+			[
+				"pthread_",
+				"pthread_rwlock_t"
+			],
+			[
+				"pthread_rw",
+				"pthread_rwlock_init"
+			],
+			[
+				"MAX",
+				"MAX_OBJECT_SIZE"
+			],
+			[
+				"Proxy",
+				"Proxy-Connection"
+			],
+			[
+				"client",
+				"client_fd"
+			],
+			[
+				"bad",
+				"bad_method"
+			],
+			[
+				"ser",
+				"server_fd"
+			],
+			[
+				"Rio_read",
+				"Rio_readlineb"
+			],
+			[
+				"Rio_re",
+				"Rio_readinitb"
+			],
+			[
+				"Rio",
+				"Rio_readinitb"
+			],
+			[
+				"user",
+				"user_agent_hdr"
+			],
+			[
+				"searh",
+				"search-switch"
+			],
+			[
+				"conte",
+				"control-area"
+			],
+			[
+				"PREV",
+				"PREV_BLKP"
+			],
+			[
+				"heap",
+				"heap_counter"
+			],
+			[
+				"NEXT_FREE",
+				"NEXT_FREE_P"
+			],
+			[
+				"PUT",
+				"PUT_WTAG"
+			],
+			[
+				"NEXT",
+				"NEXT_FREEP"
+			],
+			[
+				"free",
+				"free_listp"
+			],
+			[
+				"mm_",
+				"mm_checkheap"
+			],
+			[
+				"mem_heap",
+				"mem_heap_high"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"loading",
+				"loading-msg"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"BUILT",
+				"BUILTIN_JOBS"
+			],
+			[
+				"STD",
+				"STDOUT_FILENO"
+			],
+			[
+				"BULT",
+				"BUILTIN_NONE"
+			],
+			[
+				"trans",
+				"transpose_submit_desc"
+			],
+			[
+				"trans_",
+				"trans_simpleblock"
+			],
+			[
+				"uint",
+				"uint32_t"
+			],
+			[
+				"ga",
+				"gap_end"
+			],
+			[
+				"gap",
+				"gap_start"
+			],
+			[
+				"que",
+				"queue_empty"
+			],
+			[
+				"end",
+				"end_stack"
+			],
+			[
+				"dict",
+				"dict_lookup"
+			],
+			[
+				"funct",
+				"func_def_ptr"
+			],
+			[
+				"q_ins",
+				"q_ins1_new"
+			],
+			[
+				"queue",
+				"queue_new"
+			],
+			[
+				"Element",
+				"Element2"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"make",
+				"make_pixel"
+			],
+			[
+				"colors",
+				"colors-canvas"
+			],
+			[
+				"show",
+				"show_per_page"
+			],
+			[
+				"landing",
+				"landing__main-box"
+			],
+			[
+				"m",
+				"m_Height"
+			],
+			[
+				"m_",
+				"m_Height"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"channels",
+				"channels-container--scroll"
+			],
+			[
+				"brand-name",
+				"brand-name--shrunk"
+			],
+			[
+				"logo",
+				"logo__container-tiny"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"pos-",
+				"pos-controller-contain"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pos",
+				"pos-controller"
+			],
+			[
+				"post",
+				"pos-controller"
+			],
+			[
+				"comm",
+				"committed-player-school"
+			],
+			[
+				"Ryan",
+				"RyanYoungLg"
+			],
+			[
+				"Jonathan",
+				"JonathanSchroederLg"
+			],
+			[
+				"player-name",
+				"player-name-testimonial"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"home-con",
+				"home-container-1"
+			],
+			[
+				"img-con",
+				"img-container-logo"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"button",
+				"button-disp"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"col-md",
+				"col-md-7"
+			],
+			[
+				"img-",
+				"img-panel-container"
+			],
+			[
+				"resp",
+				"responseText"
+			],
+			[
+				"pattern",
+				"patterned_message"
+			],
+			[
+				"patter",
+				"patterned_message"
+			],
+			[
+				"testNth",
+				"testNthSmithNumber"
+			],
+			[
+				"nth",
+				"nthSmithNumber"
+			],
+			[
+				"is",
+				"is_circ_prime"
+			],
+			[
+				"nextCycle",
+				"nextCycleInt"
+			],
+			[
+				"white",
+				"white-popup"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"p",
+				"preview_article"
+			],
+			[
+				"programm",
+				"programming-nav"
+			],
+			[
+				"open",
+				"open-source-wrapper"
+			],
+			[
+				"my",
+				"my-experience-wrapper"
+			],
+			[
+				"web",
+				"web-design-wrapper"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"list-",
+				"list-n	list-style-type: none;"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public_html/index.html",
+			"settings":
+			{
+				"buffer_size": 22021,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public_html/css/custom/kamikaze.css",
+			"settings":
+			{
+				"buffer_size": 9137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public_html/js/init.js",
+			"settings":
+			{
+				"buffer_size": 27002,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public_html/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 431877,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jackkasbeer_air/Desktop/localsrc/web-frameworks/themeforest-10923020-berliner-multipurpose-creative-landing-page/HTML/GOLD Version/index.html",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/percentpledge/public_html/js/kamikaze.js",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/marianasystems/public_html/css/custom.css",
+		"/Users/jackkasbeer_air/Desktop/localsrc/web-frameworks/themeforest-10923020-berliner-multipurpose-creative-landing-page/HTML/GOLD Version/css/bootstrap.css",
+		"/Users/jackkasbeer_air/Desktop/localsrc/themeforest-10923020-berliner-multipurpose-creative-landing-page/HTML/GOLD Version/index.html",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/marianasystems/public_html/_header.php",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/percentpledge/public_html/css/custom/custom.css",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/percentpledge/public_html/js/init.js",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/percentpledge/public_html/css/bootstrap.css",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/percentpledge/public_html/css/kamikaze.css",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/percentpledge/public_html/index.html",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/percentpledge/px-fractal/blue/assets/css/main.css",
+		"/Users/jackkasbeer_air/Desktop/localsrc/GRP21/percentpledge/index.html",
+		"/Users/jackkasbeer_air/Desktop/localsrc/grp21/marianasystems/public_html copy/_asset-nav.php",
+		"/Users/jackkasbeer_air/Desktop/localsrc/grp21/marianasystems/public_html copy/index.php",
+		"/Users/jackkasbeer_air/Desktop/localsrc/grp21/marianasystems/public_html copy/404.php",
+		"/Users/jackkasbeer_air/Desktop/localsrc/grp21/marianasystems/public_html copy/_asset-footer.php",
+		"/Users/jackkasbeer_air/Desktop/localsrc/grp21/marianasystems/public_html copy/_footer.php",
+		"/Users/jackkasbeer_air/Desktop/localsrc/grp21/scripts.js",
+		"/Users/jackkasbeer_air/jkasbeer2/past/projects/Emily Baretta/isbc/css/style.css",
+		"/Users/jackkasbeer_air/Desktop/localsrc/jackkasbeer2016/elegance.css",
+		"/Users/jackkasbeer_air/jkasbeer2/past/projects/Avison Young/ay_search-engine/js/script.js",
+		"/Users/jackkasbeer_air/Desktop/localsrc/jackkasbeer2016/wizardry.js",
+		"/Users/jackkasbeer_air/Desktop/localsrc/jackkasbeer2016/prefix.min.js",
+		"/Users/jackkasbeer_air/jkasbeer2/past/projects/Avison Young/ay_search-engine/index.html",
+		"/Users/jackkasbeer_air/Desktop/localsrc/crane/index.html",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1461462770/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15213/proxylab-handout/pcache.c",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1461462796/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15213/proxylab-handout/pcache.h",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1461640351/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15213/cachelab-handout/csim.c",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1461459725/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15213/proxylab-handout/proxy.c",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1461640328/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15213/cachelab-handout/cachelab.c",
+		"/Users/jackkasbeer_air/Desktop/localsrc/hw7.txt",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/lucid.dzgn.io/public/index.html",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/lucid.dzgn.io/public/favicon.ico",
+		"/Users/jackkasbeer_air/jkasbeer2/past/Projects/Avison Young/ay_search-engine/js/script.js",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/home/index.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/show.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/_form.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/new.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/edit.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/_project_embed_fields.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/_project_picture_fields.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/_project_section_fields.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/_project_tag_fields.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/index.html.erb",
+		"/Users/jackkasbeer_air/jkasbeer2/present/cmu/year3/Semester 1/Git/98-174",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/assets/javascripts/application.js",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/controllers/tags_controller.rb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/controllers/projects_controller.rb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io-save",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/public/js/application.js",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/public/js/parallax.js",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/assets/images/home-page/circle-thing.svg",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/assets/images/home-page/burgerWaterMark.svg",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/layouts/application.html.erb",
+		"/Users/jackkasbeer_air/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/assets/images/home-page/dio-logo-gray1.svg",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/Gemfile",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/assets/images/home-page/desgn-io-logo.svg",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/views/projects/project.html.erb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/controllers/home_controller.rb",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/assets/stylesheets/home.scss",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/app/assets/stylesheets/application.css",
+		"/Users/jackkasbeer_air/Desktop/localsrc/desgn-io/home/config/routes.rb",
+		"/Users/jackkasbeer_air/jkasbeer2/past/Projects/Emily Baretta/isbc/css/style.css",
+		"/Users/jackkasbeer_air/jkasbeer2/tech-stuff/Web/Shake/css/style.css",
+		"/Users/jackkasbeer_air/jkasbeer2/tech-stuff/Web/Shake/index.html",
+		"/Users/jackkasbeer_air/jkasbeer2/project-shake/web/js/javascript.js",
+		"/Users/jackkasbeer_air/jkasbeer2/project-shake/web/index.html",
+		"/Users/jackkasbeer_air/jkasbeer2/project-shake/web/css/style.css",
+		"/Users/jackkasbeer_air/jkasbeer2/School/CarnegieMellon/Junior Year/Git/98-174",
+		"/Users/jackkasbeer_air/jkasbeer2/School/CarnegieMellon/Junior Year/98-174",
+		"/Users/jackkasbeer_air/jkasbeer2/tech-stuff/Web/Shake/js/javascript.js",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450387487/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/13/refsol/lab13-sol.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450388712/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/14/sol/practice.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450387472/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/14/sol/lab14.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450387461/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/14/code/lab14.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450379062/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/14/sol/lab14.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450379036/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/14/code/lab14.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450296632/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/13/refsol/lab13-sol.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450148378/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/10/dist/set.sig",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450241250/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/13/code/lab13.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450147498/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/10/dist/dict.sig",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450147377/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/10/dist/dictset.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450148606/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/10/dist/setofsets.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450149021/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/10/sol/setofsets.sml",
+		"/Users/jackkasbeer_air/Desktop/ay_testsearch/js/script.js",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449704808/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/lab/14/code/lab14.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449697443/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/README.txt",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1450036723/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15213/proxylab-handout/proxy.c",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449716662/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/tests/task3.c0",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449696819/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/lib/c0vm.h",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449696893/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/c0vm.c",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449697815/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/tests/arrays.c0",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449697637/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/tests/task4.c0",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449697530/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/tests/strings.bc0",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449697549/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/tests/strings.c0",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449697512/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15122/c0vm-handout/test.c0",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449628135/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Lazy.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449624847/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Change.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449516491/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Frobenius.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449541417/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/signatures/TABLE.sig",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449541717/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/signatures/GAME.sig",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449541285/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/MemoKnuth.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449527241/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Regular.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449616150/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/game/alphabeta.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449548126/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/game/sequtils.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449520615/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Change.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449529928/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/RegExTest.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449283183/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/signatures/ORDSET.sig",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449616131/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/game/runpokemon.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449616096/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/ansi.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449616084/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/game/minimax.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449616059/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/game/options.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449616034/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/game/minimax.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449611602/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/game/alphabeta.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449548112/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/game/options.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449548057/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/game/explicit.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449547183/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/game/alphabeta.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449545466/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/11/code/lib/game/minimax.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449280645/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Lazy.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449527250/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/signatures/REGEX.sig",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449516444/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Hamming.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449463329/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Change.sml",
+		"/var/folders/v3/_t43qykd4ksc7mcbvfbdc39r0000gn/T/sublime-sftp-browse-1449466943/AFS/afs/andrew.cmu.edu/usr/jkasbeer/private/15150/handout/hw/12/Hamming.sml",
+		"/Users/jackkasbeer_air/jkasbeer2/School/CarnegieMellon/SophomoreYear/Semester2/15-213/Homeworks/proxylab-handout/pcache.h",
+		"/Users/jackkasbeer_air/jkasbeer2/School/CarnegieMellon/SophomoreYear/Semester2/15-213/Homeworks/proxylab-handout/pcache.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"animateNum",
+			"kami",
+			"howitworks",
+			"#heading",
+			"mail",
+			"document",
+			"community",
+			"#ddd",
+			"#313133",
+			"blink",
+			"rgb(56,62,117)",
+			"rgb(22,114,165)",
+			"rgb(48",
+			"#3097F2",
+			"-img",
+			"img",
+			"image",
+			"#33CE58",
+			"modal-con",
+			"max-hei",
+			"header nav ul li",
+			"community-",
+			"community",
+			".owl-carousel",
+			"community-",
+			"#community",
+			"#team",
+			"owl2",
+			"team-sec",
+			"team",
+			"team-section",
+			"community",
+			"team-section",
+			"owl2",
+			"blog-section",
+			"#blog",
+			"images/",
+			"customers-section",
+			"about-section",
+			"-section",
+			"#slider3",
+			"#0364dd",
+			"follow-section",
+			"heading-slogan",
+			"#heading-slogan",
+			"heading-slogan",
+			".howitworks-section",
+			".team-section",
+			".small-logo",
+			"+ CONT",
+			".list-inline",
+			"header",
+			"$fadeIn.",
+			"$fadeIn",
+			"subheader-section",
+			"fees",
+			".side-",
+			"content",
+			"#nav",
+			"nav_left",
+			"main",
+			"nav_right",
+			"#nav",
+			":hover",
+			"printf",
+			"Cannot read",
+			"ifdef",
+			"def f",
+			"class",
+			"overfl",
+			"font-awe",
+			"$gray-lady",
+			"c0",
+			"flush_st",
+			"bad_r",
+			"is_stab",
+			"s4",
+			"s3",
+			"s2",
+			"aligned",
+			"elem_equ",
+			"solver",
+			"segment",
+			"empty",
+			"tbuf_spli",
+			" *",
+			"BIG_ASS_BUF",
+			"cache_err",
+			"pthread",
+			"destroy",
+			"Freeaddrin",
+			"not_found",
+			"rio_readline",
+			"not_er",
+			"Rio_read",
+			"freeadd",
+			"free",
+			"open_clie",
+			"Getaddri",
+			"Getaddrinfo error",
+			"posix_err",
+			"Getadd",
+			"Get",
+			"parse_",
+			"Here",
+			"printf",
+			"flush_str",
+			"proxy_err",
+			"print_",
+			"print",
+			"Rio_w",
+			"proxy",
+			"Rio_wr",
+			"Rio_",
+			"Rio_re",
+			"open_",
+			"getaddr",
+			"filename",
+			"rio",
+			"P(",
+			"Malloc",
+			"open_client",
+			"server_fd",
+			"client_host",
+			"rp",
+			"WEB",
+			"uri_port",
+			"proxyconn_fd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public_html/index.html",
+					"settings":
+					{
+						"buffer_size": 22021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								875
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public_html/css/custom/kamikaze.css",
+					"settings":
+					{
+						"buffer_size": 9137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6603,
+								6610
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5468.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public_html/js/init.js",
+					"settings":
+					{
+						"buffer_size": 27002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1994,
+								1994
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 276.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public_html/css/bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 431877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245958,
+								245958
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 190029.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.sftp":
+	{
+		"height": 29.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}
